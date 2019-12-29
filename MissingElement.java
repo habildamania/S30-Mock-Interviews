@@ -55,7 +55,7 @@ class Main
     public static void main(String[] args)
     {
     MissingElement obj = new MissingElement();
-    int[] input_array = {2, 3, 4, 5, 6, 8};  //Sample input array sorted
+    int[] input_array = {2,4,5,6,7,8,9,10,11};  //Sample input array sorted
     
     int result = obj.search(input_array);
     System.out.println("Missing element is - " + result);  //should return 7
