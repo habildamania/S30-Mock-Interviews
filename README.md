@@ -11,3 +11,16 @@ Example: 1) For the input array: [2,3,4,5,6,8]
             Return : -1
 
 ```
+
+## Problem-2:
+An array is given in the question and you need to return the indices of two numbers such that they add up to a specific target. Assume that there is only one solution for each input and you cannot use the same element twice. 
+
+```
+Example:
+
+Given nums = [2, 7, 11, 15], target = 9,
+
+Because nums[0] + nums[1] = 2 + 7 = 9,
+
+return [0, 1].
+```
